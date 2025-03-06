@@ -1,0 +1,30 @@
+body{
+    background-color: #333;
+    color: black;
+    
+}
+    
+
+
+.input-text{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    padding: 12px;
+    border: none;
+    outline: none;
+
+}
+.Nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    gap: 20px;
+}
+.button{
+    outline: none;
+    color: blue;
+    border-color: blue;
+
+}
